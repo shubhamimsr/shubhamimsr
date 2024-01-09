@@ -7,7 +7,6 @@ Full Stack Developer
 👨‍💻 Full-Stack Java Developer | Code Architect 🏗️ | Web Enthusiast 🌐 | Problem Solver🧩 🔧Tech Stack: Java☕ | Spring Framework🌱 | JavaScript🚀 | React ⚛️ | SQL 📊
 
 * 🌍  I'm based in Pune, Maharashtra, India.
-* ✉️  You can contact me at [shubhamraskar169@gmail.com](mailto:shubhamraskar169@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a Spiderman🕷️, a Web Developer!! "With great power comes great responsibility."
 
