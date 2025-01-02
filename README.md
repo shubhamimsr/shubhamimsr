@@ -1,8 +1,8 @@
 # Hi 👋 I'm Shubham Raskar
 
 ## Full Stack Developer  
-👨‍💻 Full-Stack Java Developer | Microservices Enthusiast ⚙️ | AWS Practitioner ☁️ | Web Architect 🏗️ | Problem Solver 🧩  
-🔧 **Tech Stack**: Java ☕ | Spring Framework 🌱 | Microservices 🚀 | AWS (EC2, S3, RDS) ☁️ | JavaScript ⚡ | React ⚛️ | SQL 📊  
+👨‍💻 Full-Stack Java Developer | Microservices ⚙️ | AWS Practitioner ☁️ | Web Architect 🏗️ | Problem Solver 🧩  
+🔧 **Tech Stack**: Java ☕ | Spring Framework 🌱 | Microservices 🚀 | AWS (EC2, S3, RDS) ☁️ | React ⚛️ | SQL 📊 | PostgreSQL 🐘 
 
 ---
 
