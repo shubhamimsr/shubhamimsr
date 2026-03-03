@@ -78,11 +78,11 @@
   </a>
   <br/>
   <a href="http://www.github.com/shubhamimsr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamimsr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=shubhamimsr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
   </a>
   <br/>
   <a href="http://www.github.com/shubhamimsr">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamimsr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamimsr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
   <br/>
   <a href="https://github.com/shubhamimsr">
