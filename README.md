@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Shubham Raskar</h1>
+<h1 align="center">Hey I'm Shubham</h1>
 <h3 align="center">Full-Stack Java Developer | Microservices ⚙️ | AWS Practitioner ☁️ | Web Architect 🏗️ | Problem Solver 🧩</h3>
 
 ###
@@ -65,7 +65,7 @@ I'm a **Backend-focused Java Developer** based in **Pune, Maharashtra, India** �
 
 - 🤝 Open to collaborating on innovative projects and cloud-based solutions
 - ✉️ Reach me at [shubhamraskar169@gmail.com](mailto:shubhamraskar169@gmail.com)
-- ⚡ *"With great power comes great responsibility."*
+- 🕸️ *"With great power comes great responsibility."-A Web Developer*
 
 ---
 
