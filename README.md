@@ -4,13 +4,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" /><br/>Java
+  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="80" alt="spring logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="80" alt="aws logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="12" />
