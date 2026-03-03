@@ -4,13 +4,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="80" alt="spring logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="80" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="12" />
@@ -61,12 +61,40 @@
 
 ## 🌍 About Me
 
-- 📍 Based in **Pune, Maharashtra, India**
-- 🌟 Experienced in designing scalable **microservices** using Spring Boot and REST APIs
-- ☁️ Proficient in **AWS Cloud Services** — EC2, S3, and RDS for deploying and managing applications
+I'm a **Backend-focused Java Developer** based in **Pune, Maharashtra, India** 📍, passionate about building systems that are fast, reliable, and built to scale.
+
 - 🤝 Open to collaborating on innovative projects and cloud-based solutions
 - ✉️ Reach me at [shubhamraskar169@gmail.com](mailto:shubhamraskar169@gmail.com)
 - ⚡ *"With great power comes great responsibility."*
+
+---
+
+## 🚀 What I Do
+
+- 🏗️ Build and scale **backend systems** designed for high performance and reliability
+- ☕ Work extensively with **Java, Spring Boot, Concurrency**, and **REST APIs**
+- 🎯 Care deeply about **performance**, **memory management**, and **clean system design**
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+|---|---|
+| **Languages** | Java, SQL |
+| **Backend** | Spring Boot, Microservices, REST APIs, JVM Internals |
+| **Concurrency** | Multi-threading, Executor & ExecutorService, CompletableFuture, Virtual Threads |
+| **Databases** | PostgreSQL, MySQL, Redis |
+| **DevOps** | AWS, Docker, Kubernetes (K8s) |
+| **Tools** | IntelliJ, Git, VS Code |
+
+---
+
+## 📌 Currently Working On
+
+- 🔬 Deep diving into **Java internals** — JVM, Garbage Collection, Java Memory Model (JMM)
+- 🧩 Sharpening **DSA** skills consistently on LeetCode, GeeksforGeeks & HackerRank
+- 📐 Learning and practicing **System Design** — from fundamentals to real-world architectures
 
 ---
 
@@ -74,7 +102,7 @@
 
 <div align="center">
   <a href="http://www.github.com/shubhamimsr">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhamimsr&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhamimsr&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   </a>
   <br/>
   <a href="http://www.github.com/shubhamimsr">
@@ -86,6 +114,6 @@
   </a>
   <br/>
   <a href="https://github.com/shubhamimsr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamimsr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamimsr&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
