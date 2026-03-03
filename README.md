@@ -1,53 +1,91 @@
-# Hi 👋 I'm Shubham Raskar
+<h1 align="center">Hey 👋 I'm Shubham Raskar</h1>
+<h3 align="center">Full-Stack Java Developer | Microservices ⚙️ | AWS Practitioner ☁️ | Web Architect 🏗️ | Problem Solver 🧩</h3>
 
-## Full Stack Developer  
-👨‍💻 Full-Stack Java Developer | Microservices ⚙️ | AWS Practitioner ☁️ | Web Architect 🏗️ | Problem Solver 🧩  
-🔧 **Tech Stack**: Java ☕ | Spring Framework 🌱 | Microservices 🚀 | AWS (EC2, S3, RDS) ☁️ | React ⚛️ | SQL 📊 | PostgreSQL 🐘 
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shubham-raskar-479a94222/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.x.com/shubhamimsr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+  <a href="http://www.instagram.com/shubhamimsr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://www.github.com/shubhamimsr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  <a href="mailto:shubhamraskar169@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://leetcode.com/u/shubhamimsr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/shubhamimsr?tab=activity" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/shubhamraskar_i1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+  </a>
+</div>
+
+###
+
+## 🌍 About Me
+
+- 📍 Based in **Pune, Maharashtra, India**
+- 🌟 Experienced in designing scalable **microservices** using Spring Boot and REST APIs
+- ☁️ Proficient in **AWS Cloud Services** — EC2, S3, and RDS for deploying and managing applications
+- 🤝 Open to collaborating on innovative projects and cloud-based solutions
+- ✉️ Reach me at [shubhamraskar169@gmail.com](mailto:shubhamraskar169@gmail.com)
+- ⚡ *"With great power comes great responsibility."*
 
 ---
 
-### 🌍 About Me  
-- 📍 Based in **Pune, Maharashtra, India**  
-- 🌟 Experienced in designing scalable **microservices** using Spring Boot and REST APIs.  
-- ☁️ Proficient in **AWS Cloud Services** such as EC2, S3, and RDS for deploying and managing applications.  
-- 🤝 Open to collaborating on innovative projects and cloud-based solutions.  
-- ✉️ Reach me at [shubhamraskar169@gmail.com](mailto:shubhamraskar169@gmail.com)  
-- ⚡ I'm a **Web Developer**—"With great power comes great responsibility."  
+## 🏆 GitHub Stats
 
----
-
-### 💻 Skills  
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/330px-Spring_Boot.svg.png" width="36" height="36" alt="Spring" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>  
-
----
-
-### 🌐 Socials  
-<p align="left"> 
-  <a href="https://www.github.com/shubhamimsr" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/shubham-raskar-479a94222/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="http://www.instagram.com/shubhamimsr" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-  <a href="https://www.x.com/shubhamimsr" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X (Twitter)" /></a>
-</p>  
-
----
-
-### 🏆 Badges & Stats  
-
-<b>GitHub Stats</b>  
-
-<a href="http://www.github.com/shubhamimsr"><img src="https://github-readme-stats.vercel.app/api?username=shubhamimsr&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" /></a>  
-<a href="http://www.github.com/shubhamimsr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamimsr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" /></a>  
-<a href="http://www.github.com/shubhamimsr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamimsr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /></a>  
-
----
-
-<a href="https://github.com/shubhamimsr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamimsr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
+<div align="center">
+  <a href="http://www.github.com/shubhamimsr">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhamimsr&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <a href="http://www.github.com/shubhamimsr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamimsr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="http://www.github.com/shubhamimsr">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamimsr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+  <br/>
+  <a href="https://github.com/shubhamimsr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamimsr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
